@@ -19,7 +19,7 @@ PS! If your server crashes the first time you load this script dont worry.. It's
 #define MAX_LOCATIONS 50 //How many locations you want to have!
 #define UseTd //Comment This if you dont want to use the TextDraw! (To comment put // at the begining of this line)
 #define GPSDialogID 1111
-#define GPSSaveDialogID 2222
+#define GPSSaveDialogID 2222 //saving dialogid
 
 enum FGPS
 {
